@@ -1,0 +1,7 @@
+C:\Users\Cing Lun\Documents\C# Class\MoreaboutClassesandMethod\MoreAboutClassesAndMethod\MoreAboutClassesAndMethod\bin\Debug\MoreAboutClassesAndMethod.exe.config
+C:\Users\Cing Lun\Documents\C# Class\MoreaboutClassesandMethod\MoreAboutClassesAndMethod\MoreAboutClassesAndMethod\bin\Debug\MoreAboutClassesAndMethod.exe
+C:\Users\Cing Lun\Documents\C# Class\MoreaboutClassesandMethod\MoreAboutClassesAndMethod\MoreAboutClassesAndMethod\bin\Debug\MoreAboutClassesAndMethod.pdb
+C:\Users\Cing Lun\Documents\C# Class\MoreaboutClassesandMethod\MoreAboutClassesAndMethod\MoreAboutClassesAndMethod\obj\Debug\MoreAboutClassesAndMethod.csprojAssemblyReference.cache
+C:\Users\Cing Lun\Documents\C# Class\MoreaboutClassesandMethod\MoreAboutClassesAndMethod\MoreAboutClassesAndMethod\obj\Debug\MoreAboutClassesAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\Cing Lun\Documents\C# Class\MoreaboutClassesandMethod\MoreAboutClassesAndMethod\MoreAboutClassesAndMethod\obj\Debug\MoreAboutClassesAndMethod.exe
+C:\Users\Cing Lun\Documents\C# Class\MoreaboutClassesandMethod\MoreAboutClassesAndMethod\MoreAboutClassesAndMethod\obj\Debug\MoreAboutClassesAndMethod.pdb
